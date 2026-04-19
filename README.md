@@ -40,6 +40,10 @@ Bahama Taxi is a card-based board game for 2–4 players. Players take the roles
 - [Pagat - Game Variants](https://www.pagat.com/invented/bahama-taxi.html)
 - [Board Game Arena - Play Online](https://boardgamearena.com/gamepanel?game=bahamataxi)
 
+## Other Games by the Author
+
+- [Daredragon Fellowship (2026)](https://github.com/bsulkowski/daredragon-fellowship)
+
 ## Revision History
 
 | Version | Date | Changes |
