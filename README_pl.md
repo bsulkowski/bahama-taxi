@@ -37,7 +37,7 @@ Bahama Taxi to planszowa gra karciana dla 2–4 graczy. Gracze wcielają się w 
 ## Linki zewnętrzne
 
 - [BoardGameGeek](https://boardgamegeek.com/boardgame/174337/bahama-taxi)
-- [Pagat - Gry karciane](https://www.pagat.com/invented/bahama-taxi.html)
+- [Pagat - Warianty gry](https://www.pagat.com/invented/bahama-taxi.html)
 - [Board Game Arena - Graj online](https://boardgamearena.com/gamepanel?game=bahamataxi)
 
 ## Historia zmian
