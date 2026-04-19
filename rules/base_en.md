@@ -17,9 +17,9 @@ Required stuff:
 
 ### Board
 
-The board depicts a scheme of road connections in a city. It consists of 52 areas, enumerated with card symbols. On each of four parts of the board there are areas for distinct card suit (♠, ♥, ♣, ♦). Congested city core, called Downtown, is reflected by areas in the middle of the board, enumerated with ranks (A, K, Q, J).
+![Board](/board/board_en.png)
 
-<!-- image: board -->
+The board depicts a scheme of road connections in a city. It consists of 52 areas, enumerated with card symbols. On each of four parts of the board there are areas for distinct card suit (♠, ♥, ♣, ♦). Congested city core, called Downtown, is reflected by areas in the middle of the board, enumerated with ranks (A, K, Q, J).
 
 Two given areas are adjacent, whenever they are connected with line or touch themselves. Example pairs of adjacent areas.
 
@@ -52,7 +52,7 @@ A taxi can carry up to 3 passengers at one time. A player can pick up a citizen 
 
 ### Ingame situation example
 
-<!-- image: ingame situation example -->
+![Example](example_en.png)
 
 Comments:
 
