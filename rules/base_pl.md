@@ -17,7 +17,7 @@ Do gry potrzebne są:
 
 ### Plansza
 
-![Plansza](/board/board_en.png)
+![Plansza](/board/board_pl.png)
 
 Schemat połączeń drogowych w mieście przedstawia załączona plansza. Plansza składa się z 52 pól ponumerowanych kartami do gry. Na każdej z czterech części planszy znajdują się pola dla innego koloru kart (♠, ♥, ♣, ♦). Zatłoczone centrum miasta odzwierciedlone jest przez pola na środku planszy, ponumerowane figurami (A, K, D, W).
 
