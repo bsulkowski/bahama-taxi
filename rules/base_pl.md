@@ -2,7 +2,7 @@
 
 ## Instrukcja
 
-Zasady gry v1.0, 2012-07-12.
+Zasady gry v1.1, 2026-04-24.
 
 ### Wprowadzenie
 

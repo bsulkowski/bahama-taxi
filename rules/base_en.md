@@ -2,7 +2,7 @@
 
 ## Playing instructions
 
-Game rules v1.0, 2012-07-12.
+Game rules v1.1, 2026-04-24.
 
 ### Introduction
 
