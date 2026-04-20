@@ -12,14 +12,15 @@ Required stuff:
 
 - the board
 - standard 52-card deck
-- distinguishable pieces (one for each player)
-- a paper and a pencil
+- distinguishable pieces (a matching pair for each player)
 
 ### Board
 
 ![Board](/board/board_en.png)
 
 The board depicts a scheme of road connections in a city. It consists of 52 areas, enumerated with card symbols. On each of four parts of the board there are areas for distinct card suit (♠, ♥, ♣, ♦). Congested city core, called Downtown, is reflected by areas in the middle of the board, enumerated with ranks (A, K, Q, J).
+
+Along the edges of the board there is an income tracker for each player — a checkered strip of fields styled after the distinctive black-and-yellow taxi markings.
 
 Two given areas are adjacent, whenever they are connected with line or touch themselves. Example pairs of adjacent areas.
 

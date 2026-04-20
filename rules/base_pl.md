@@ -12,14 +12,15 @@ Do gry potrzebne są:
 
 - plansza
 - standardowa talia 52 kart do gry
-- po jednym pionku dla każdego gracza
-- coś do pisania
+- po parze pionków dla każdego gracza
 
 ### Plansza
 
 ![Plansza](/board/board_pl.png)
 
 Schemat połączeń drogowych w mieście przedstawia załączona plansza. Plansza składa się z 52 pól ponumerowanych kartami do gry. Na każdej z czterech części planszy znajdują się pola dla innego koloru kart (♠, ♥, ♣, ♦). Zatłoczone centrum miasta odzwierciedlone jest przez pola na środku planszy, ponumerowane figurami (A, K, D, W).
+
+Na brzegach planszy znajduje się licznik zarobku dla każdego gracza — szachownica pól stylizowana na charakterystyczny czarno-żółty wzór oznaczenia taksówek.
 
 Dwa pola sąsiadują ze sobą, jeśli są połączone linią lub się stykają. Przykładowe pary sąsiadujących pól:
 

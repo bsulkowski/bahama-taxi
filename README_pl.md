@@ -28,8 +28,7 @@ Bahama Taxi to planszowa gra karciana dla 2–4 graczy. Gracze wcielają się w 
 ## Wyposażenie
 
 - standardowa talia 52 kart do gry
-- po jednym pionku dla każdego gracza
-- coś do pisania
+- po dwóch pionkach dla każdego gracza
 
 ## Linki zewnętrzne
 
@@ -45,6 +44,7 @@ Bahama Taxi to planszowa gra karciana dla 2–4 graczy. Gracze wcielają się w 
 
 | Wersja | Data | Zmiany |
 |---|---|---|
+| 1.1 | 2026-04    | |
 | 1.0 | 2012-07-12 | Pierwsza opublikowana wersja |
 
 ## Licencja

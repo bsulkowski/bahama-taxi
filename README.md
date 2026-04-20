@@ -28,8 +28,7 @@ Bahama Taxi is a card-based board game for 2–4 players. Players take the roles
 ## Equipment
 
 - standard 52-card deck
-- distinguishable tokens (one for each player)
-- a paper and a pencil
+- distinguishable tokens (two for each player)
 
 ## External Links
 
@@ -45,6 +44,7 @@ Bahama Taxi is a card-based board game for 2–4 players. Players take the roles
 
 | Version | Date | Changes |
 |---|---|---|
+| 1.1 | 2026-04    | |
 | 1.0 | 2012-07-12 | First published version |
 
 ## License
