@@ -47,6 +47,10 @@ Bahama Taxi is a card-based board game for 2–4 players. Players take the roles
 | 1.1 | 2026-04-24 | Added income tracker<br>Board visual overhaul |
 | 1.0 | 2012-07-12 | First published version |
 
+## Credits
+
+- Board background: Photo by [Christian Lendl](https://unsplash.com/@dchris?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/a-beach-with-palm-trees-and-blue-water-P41tKN3uZhw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
 ## License
 
 See [LICENSE](LICENSE).
