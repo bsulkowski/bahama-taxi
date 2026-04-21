@@ -51,7 +51,7 @@ Taksówka może przewozić jednocześnie do trzech pasażerów. Gracz może zabr
 
 ### Przykładowa sytuacja w trakcie gry
 
-![Przykład](example_pl.png)
+![Przykład](gameplay.jpg)
 
 Komentarz do załączonej sytuacji:
 
