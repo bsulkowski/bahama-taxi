@@ -53,6 +53,12 @@ Taksówka może przewozić jednocześnie do trzech pasażerów. Gracz może zabr
 
 ![Przykład](gameplay.jpg)
 
+Gracze, od góry po prawej, zgodnie z ruchem wskazówek zegara:
+- Gracz A, fioletowy wóz, na 10♦, zarobek 18$
+- Gracz B, różowy wóz, na 5♣, zarobek 11$
+- Gracz C, pomarańczowy wóz, na 8♠, zarobek 21$
+- Gracz D, turkusowy wóz, na A♠, zarobek 30$
+
 Komentarz do załączonej sytuacji:
 
 - Gracz A może jechać taksówką na pole 6♦ i zabrać czekającego tam mieszkańca jako trzeciego pasażera.
