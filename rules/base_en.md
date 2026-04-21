@@ -16,7 +16,7 @@ Required stuff:
 
 ### Board
 
-![Board](/board/board_en.png)
+![Board](/board/classic_en.png)
 
 The board depicts a scheme of road connections in a city. It consists of 52 areas, enumerated with card symbols. On each of four parts of the board there are areas for distinct card suit (♠, ♥, ♣, ♦). Congested city core, called Downtown, is reflected by areas in the middle of the board, enumerated with ranks (A, K, Q, J).
 
