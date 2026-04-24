@@ -1,5 +1,7 @@
 # Gra planszowa "Bahama Taxi"
 
+[English](base_en.md) / Polski
+
 ## Instrukcja
 
 Zasady gry v1.1, 2026-04-24.

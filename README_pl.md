@@ -1,13 +1,10 @@
 # Bahama Taxi
 
+[English](README.md) / Polski
+
 Planszowa gra karciana dla 2-4 graczy.
 
 *Autor: Bartosz Sułkowski*
-
-## Dostępne wersje językowe
-
-- [Angielska](README.md)
-- [Polska](README_pl.md)
 
 ## Opis
 

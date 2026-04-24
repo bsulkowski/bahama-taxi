@@ -1,5 +1,7 @@
 # "Bahama Taxi" Board Game
 
+English / [Polski](base_pl.md)
+
 ## Playing instructions
 
 Game rules v1.1, 2026-04-24.

@@ -1,13 +1,10 @@
 # Bahama Taxi
 
+English / [Polski](README_pl.md)
+
 A card-based board game for 2-4 players.
 
 *Author: Bartosz Sułkowski*
-
-## Available language versions
-
-- [English](README.md)
-- [Polish](README_pl.md)
 
 ## Overview
 
