@@ -57,6 +57,8 @@ A taxi can carry up to 3 passengers at one time. A player can pick up a citizen 
 
 ![Example](example_en.png)
 
+*Apologies - temporary fallback to old version due to licensing issues.*
+
 Players, from top-right, going clockwise:
 - Player A, violet cab, on 10♦, income $18
 - Player B, pink cab, on 5♣, income $11
