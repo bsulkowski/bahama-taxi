@@ -53,15 +53,13 @@ Taksówka może przewozić jednocześnie do trzech pasażerów. Gracz może zabr
 
 ### Przykładowa sytuacja w trakcie gry
 
-![Przykład](example_pl.png)
-
-*Przepraszamy - chwilowy powrót do starej wersji ze względów licencyjnych.*
+![Przykład](example.jpg)
 
 Gracze, od góry po prawej, zgodnie z ruchem wskazówek zegara:
-- Gracz A, fioletowy wóz, na 10♦, zarobek 18$
-- Gracz B, różowy wóz, na 5♣, zarobek 11$
-- Gracz C, pomarańczowy wóz, na 8♠, zarobek 21$
-- Gracz D, turkusowy wóz, na A♠, zarobek 30$
+- Gracz A, fioletowy, na 10♦, zarobek 18$
+- Gracz B, różowy, na 5♣, zarobek 11$
+- Gracz C, pomarańczowy, na 8♠, zarobek 21$
+- Gracz D, turkusowy, na A♠, zarobek 30$
 
 Komentarz do załączonej sytuacji:
 
